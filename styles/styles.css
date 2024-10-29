@@ -85,3 +85,29 @@
     margin-top: 125px;
 }
 
+.package-image{
+    width: 561px;
+    height: 234px;
+}
+
+
+/* Amenities */
+
+.amen-background{
+    width: 1920px;
+    height: 548px;
+    position: absolute
+}
+
+.amen-icon{
+    width: 150px;
+    height: 101px;
+    color: white;
+    background: transparent url('img/24hour.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.header-amen{
+    color: white;
+    opacity: 1;
+}
