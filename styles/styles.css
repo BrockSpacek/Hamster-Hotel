@@ -11,6 +11,7 @@
     border: 2px solid white;
     border-radius: 0%;
     opacity: 1;
+
 }
 
 .pool-image{
@@ -39,29 +40,46 @@
     width: 369px;
 }
 
+.award-icon{
+    width: 200px;
+    height: 193px;
+}
+
 .reservation-header{
     position: absolute;
-    top: 1300px;
+    top: 1280px;
     left: 27%;
 }
 
 .reservation-header-two{
     position: absolute;
-    top: 1300px;
+    top: 1280px;
     left: 43%;
 }
 
 .reservation-header-three{
     position: absolute;
-    top: 1300px;
+    top: 1280px;
     left: 59%;
 }
 
 .reservation-text{
     position: absolute;
+    color: white;
+    text-align: center;
+    margin-top: 60px;
+    font: normal normal normal 35px/44px Dosis;
 }
 
 .reservation-background{
     height: 738px;
     width: 100%;
 }
+
+.image-cards{
+    height: 522px;
+    width: 369px;
+}
+
+
+
