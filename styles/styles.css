@@ -1,3 +1,8 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 .bg-blue{
     background: #000324;
 }
@@ -6,4 +11,25 @@
     border: 2px solid white;
     border-radius: 0%;
     opacity: 1;
+}
+
+.pool-image{
+    width: 100%;
+    height: 500px;
+    transform: scale(1);
+}
+
+.header{
+    position: absolute;
+    top: 250px;
+    left: 27.5%;
+
+    
+    color: #E5FEFF;
+    background-color: #000324cc;
+
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
