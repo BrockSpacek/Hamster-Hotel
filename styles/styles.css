@@ -33,3 +33,35 @@
     padding-top: 50px;
     padding-bottom: 50px;
 }
+
+.award-image{
+    height: 419px;
+    width: 369px;
+}
+
+.reservation-header{
+    position: absolute;
+    top: 1300px;
+    left: 27%;
+}
+
+.reservation-header-two{
+    position: absolute;
+    top: 1300px;
+    left: 43%;
+}
+
+.reservation-header-three{
+    position: absolute;
+    top: 1300px;
+    left: 59%;
+}
+
+.reservation-text{
+    position: absolute;
+}
+
+.reservation-background{
+    height: 738px;
+    width: 100%;
+}
