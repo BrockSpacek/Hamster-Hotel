@@ -45,23 +45,7 @@
     height: 193px;
 }
 
-.reservation-header{
-    position: absolute;
-    top: 1280px;
-    left: 27%;
-}
 
-.reservation-header-two{
-    position: absolute;
-    top: 1280px;
-    left: 43%;
-}
-
-.reservation-header-three{
-    position: absolute;
-    top: 1280px;
-    left: 59%;
-}
 
 .reservation-text{
     position: absolute;
@@ -74,6 +58,7 @@
 .reservation-background{
     height: 738px;
     width: 100%;
+    position: absolute
 }
 
 .image-cards{
