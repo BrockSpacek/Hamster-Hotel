@@ -3,6 +3,8 @@
     padding: 0;
 }
 
+/* Header/Nav Bar */
+
 .bg-blue{
     background: #000324;
 }
@@ -13,6 +15,9 @@
     opacity: 1;
 
 }
+
+
+/* Luxury Image */
 
 .pool-image{
     width: 100%;
@@ -35,6 +40,8 @@
     padding-bottom: 50px;
 }
 
+/* Awards */
+
 .award-image{
     height: 419px;
     width: 369px;
@@ -46,6 +53,7 @@
 }
 
 
+/* Reservations */
 
 .reservation-text{
     position: absolute;
@@ -66,5 +74,14 @@
     width: 369px;
 }
 
+.card-margin{
+    margin-top: 150px;
+}
 
+
+/*Packages */
+
+.package-margin{
+    margin-top: 125px;
+}
 
