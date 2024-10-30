@@ -138,6 +138,10 @@
 
 /* Reserve */
 
+.center{
+    margin-left: 6%;
+}
+
 .button-margin{
     margin-top: 36.5px;
 }
@@ -146,6 +150,7 @@
     width: 1137px;
     height: 414px;
     object-fit: cover;
+    padding: 0;
 
 }
 
