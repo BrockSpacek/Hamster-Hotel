@@ -136,9 +136,21 @@
 }
 
 
+/* Reserve */
+
+.button-margin{
+    margin-top: 40px;
+}
 
 
 .reserve-image{
-    width: 1137px;
+    width: 1149px;
     height: 414px;
+    object-fit: cover;
+}
+
+.reserve-bg-blue{
+    background: #000324;
+    width: 1137px;
+    height: 207px;
 }
