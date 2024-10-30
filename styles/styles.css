@@ -139,18 +139,28 @@
 /* Reserve */
 
 .button-margin{
-    margin-top: 40px;
+    margin-top: 36.5px;
 }
 
-
 .reserve-image{
-    width: 1149px;
+    width: 1137px;
     height: 414px;
     object-fit: cover;
+
 }
 
 .reserve-bg-blue{
     background: #000324;
     width: 1137px;
     height: 207px;
+}
+
+.reserve-text{
+    color: white;
+    font: normal normal normal 16px/20px Source Sans Pro;
+}
+
+.reserve-header{
+    color: white;
+    font: normal normal normal 35px/44px Dosis;
 }
