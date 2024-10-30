@@ -90,6 +90,12 @@
     height: 234px;
 }
 
+.package-flex{
+    display: flex;
+    justify-content: column;
+    align-items: center;
+}
+
 
 /* Amenities */
 
