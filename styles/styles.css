@@ -53,20 +53,21 @@
 }
 
 
-/* Reservations */
+/* Rooms */
 
-.reservation-text{
-    position: absolute;
+.room-text{
     color: white;
-    text-align: center;
-    margin-top: 60px;
+    text-align: center; margin-top: 50px;
     font: normal normal normal 35px/44px Dosis;
 }
 
-.reservation-background{
+.room-background{
+    background-image: url(/assets/bg2.jpg);
     height: 738px;
-    width: 100%;
-    position: absolute
+    background-repeat: no-repeat;
+    background-position: 100% 54%;
+    background-size: 100%;
+    
 }
 
 .image-cards{
@@ -75,7 +76,7 @@
 }
 
 .card-margin{
-    margin-top: 150px;
+    margin-top: 40px;
 }
 
 
@@ -108,7 +109,7 @@
     background-image: url(/assets/bg.jpg);
     height: 548px;
     background-repeat: no-repeat;
-    background-position: 100% 54%;
+    background-position: 100% 50%;
     background-size: 100%;
     
 }
