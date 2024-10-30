@@ -169,3 +169,25 @@
     color: white;
     font: normal normal normal 35px/44px Dosis;
 }
+
+
+
+
+
+.bg-footer{
+    height: 300px;
+    width: 100%;
+    background-color: #000324;
+}
+
+.footer-image{
+    height: 100px;
+    width: 143px;
+    margin-top: 40px;
+}
+
+.footer-text{
+    color: white;
+    font: normal normal normal 16px/20px Source Sans Pro;
+}
+
