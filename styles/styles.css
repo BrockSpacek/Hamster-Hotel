@@ -73,11 +73,36 @@
 .image-cards{
     height: 522px;
     width: 369px;
+    border-radius: 0;
+    border: 0;
 }
 
 .card-margin{
     margin-top: 40px;
 }
+
+.room-images{
+    height: 190px;
+    width: 326px;
+    align-items: center;
+    border-radius: 0;
+    border: 0;
+}
+
+.header-size{
+    font: normal normal normal 25px/32px Dosis;
+    color: #1A1B26;
+    letter-spacing: 0px;
+    opacity: 1;
+}
+.info-text{
+    font: normal normal normal 16px/20px Source Sans Pro;
+}
+
+.info-bold{
+    font: normal normal bold 16px/20px Source Sans Pro;
+}
+
 
 
 /*Packages */
