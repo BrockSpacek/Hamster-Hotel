@@ -9,7 +9,7 @@
     background: #000324;
 }
 
-.nav-boarder{
+.nav-boarder:hover{
     border: 2px solid white;
     border-radius: 0%;
     opacity: 1;
@@ -102,6 +102,7 @@
 .info-bold{
     font: normal normal bold 16px/20px Source Sans Pro;
 }
+
 
 
 
