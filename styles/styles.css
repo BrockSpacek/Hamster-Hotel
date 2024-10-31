@@ -81,9 +81,17 @@
     margin-top: 40px;
 }
 
+.button-margin{
+    margin-top: 80px;
+}
+
+.button-margin-two{
+    margin-top: 40px;
+}
+
 .room-images{
     height: 190px;
-    width: 326px;
+    width: 369px;
     align-items: center;
     border-radius: 0;
     border: 0;
@@ -123,6 +131,13 @@
     align-items: center;
 }
 
+.borderless{
+    border: none;
+}
+
+.package-center{
+    margin-left: 14%;
+}
 
 /* Amenities */
 
