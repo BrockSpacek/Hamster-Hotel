@@ -219,6 +219,11 @@
 
 }
 
+.input-boxes{
+    width: 19%;
+    margin-top: 25px;
+}
+
 .reserve-bg-blue{
     background: #000324;
     width: 1137px;
@@ -233,6 +238,7 @@
 .reserve-header{
     color: white;
     font: normal normal normal 35px/44px Dosis;
+    margin-top: 15px;
 }
 
 .no-border-radius{
@@ -350,6 +356,7 @@
 
 }
 
+/* Reservation */
 
 .reserve-bg-blue{
     background: #000324;
