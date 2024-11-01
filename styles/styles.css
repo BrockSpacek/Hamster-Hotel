@@ -303,20 +303,43 @@
         justify-content: center;
     }
 
+    /* Roooms */
     
+    .image-cards{
+        height: 450px;
+        width: 200px;
+        border-radius: 0;
+        border: 0;
+    }
+
+    .room-images{
+            height: 100px;
+            width: 168px;
+            align-items: center;
+            border-radius: 0;
+            border: 0;
+    }
+
+    
+    /* Packages */
 
 
+    .package-image{
+        width: 400px;
+        height: 234px;
+    
+    }
 
+    .package-center{
+        margin-left: 0;
+    }
 
+    .body-centering{
+        text-align: center;
+    }
 
-
-
-
-
-
-
-
-
-
+    .more-spacing{
+        margin-top: 25px;
+    }
 
 }
