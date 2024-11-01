@@ -104,7 +104,7 @@
     height: 45.875rem;
     background-repeat: no-repeat;
     background-position: 100% 54%;
-    background-size: 100%;
+   
     
 }
 
@@ -359,6 +359,9 @@
     }
     /* Roooms */
 
+   .room-text{
+    margin-top: 90px;
+   }
     .room-background{
         height: 62.5rem;
         
@@ -366,17 +369,38 @@
     
     .image-cards{
         margin-top: 20px;
-        height: 500px;
+        height: 600px;
         width: 200px;
        
     }
 
     .room-images{
             height: 100px;
-            width: 168px;
+            width: 100%;
            
     }
 
+    .header-size{
+       margin-top: 10px;
+    }
+    .info-text{
+      margin-top: 10px;
+      padding-bottom: 7px;
+        
+    }
+    
+    .info-bold{
+       margin-top: 10px;
+    }
+
+    .room-card-margin{
+        margin-top: 135px;
+    }
+
+
+.button-margin-two{
+    margin-top: 0px;
+}
     
     /* Packages */
 
