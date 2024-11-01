@@ -259,3 +259,50 @@
     font: normal normal normal 16px/20px Source Sans Pro;
 }
 
+@media screen and (max-width: 768px){
+
+    .bg-blue{
+        background: #000324;
+        width: 767px;
+
+    }
+
+
+    .pool-image{
+    background-image: url(../assets/header.jpg);
+    width: 767px;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: 100% 54%;
+    object-fit: cover
+    }   
+
+    .header{
+        color: #E5FEFF;
+        background-color: #000324cc;
+        height: 232px;
+        width: 550px;
+        text-align: center;
+    }
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
