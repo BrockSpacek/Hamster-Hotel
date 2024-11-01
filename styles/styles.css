@@ -55,8 +55,15 @@
 .award-image{
     height: 419px;
     width: 419px;
-}
 
+    display: flex;
+    justify-content: end;
+    object-fit: cover;
+}
+.image-shift{
+    display: flex;
+    justify-content: end;
+}
 .award-icon{
     width: 200px;
     height: 193px;
@@ -70,6 +77,17 @@
 
 .hamster-text{
     font: normal normal normal 35px/44px Dosis;
+}
+
+.award-centering{
+    display: flex;
+    justify-content: center;
+
+}
+
+.icon-start{
+    display: flex;
+    justify-content: start;
 }
 
 /* Rooms */
@@ -292,23 +310,44 @@
         text-align: center;
     }
 
+    /* Awards */
+
+    .image-shift{
+        display: flex;
+        justify-content: space-evenly;
+    }
     .award-image{
         height: 300px;
-        width: 450px;
+        width: 350px;
+    
         display: flex;
-        justify-content: center;
-        padding-bottom: 50px;
+        justify-content: end;
+        object-fit: cover;
     }
 
     .award-icon{
         width: 105px;
         height: 100px;
         margin-top: 20px;
-        margin-right: 75px;
+        margin-right: 20px;
+        margin-left: 20px;
         display: flex;
         justify-content: center;
     }
 
+    .award-centering{
+       text-align: center;
+    }
+
+    .icon-start{
+        display: flex;
+        justify-content: center;
+    }
+
+    .award-text{ 
+        margin-left: 25px;
+        margin-right: 25px
+    }
     /* Roooms */
     
     .image-cards{
