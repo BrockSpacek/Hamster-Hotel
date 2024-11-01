@@ -99,11 +99,11 @@
 }
 
 .room-background{
-    background-image: url(/assets/bg2.jpg);
-    width: 100%;
+    background-image: url(../assets/bg2.jpg);
+    width: 1920px;
     height: 45.875rem;
-    background-repeat: no-repeat;
-    background-position: 100% 54%;
+    
+    
    
     
 }
@@ -364,7 +364,7 @@
    }
     .room-background{
         height: 62.5rem;
-        
+        width: 767px;;
     }
     
     .image-cards{
