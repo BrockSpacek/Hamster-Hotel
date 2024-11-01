@@ -180,6 +180,14 @@
     margin-left: 15%;
 }
 
+.package-heading{
+    padding-bottom: 10px;
+}
+.package-font{
+    margin-top: 20px;
+    font: normal normal normal 16px/20px Source Sans Pro;
+}
+
 /* Amenities */
 
 
@@ -415,8 +423,16 @@
     margin-left: 0;
 }
 
+.input-boxes{
+    width: 90%;
+    margin-top: 10px;
+}
 
-
+.button-margin{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
 
 
 
