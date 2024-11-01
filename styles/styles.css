@@ -286,10 +286,24 @@
         text-align: center;
     }
 
+    .award-image{
+        height: 300px;
+        width: 450px;
+        display: flex;
+        justify-content: center;
+        padding-bottom: 50px;
+    }
+
+    .award-icon{
+        width: 105px;
+        height: 100px;
+        margin-top: 20px;
+        margin-right: 75px;
+        display: flex;
+        justify-content: center;
+    }
+
     
-
-
-
 
 
 
