@@ -100,9 +100,6 @@
     margin-top: 40px;
 }
 
-.button-margin{
-    margin-top: 80px;
-}
 
 .button-margin-two{
     margin-top: 40px;
@@ -124,11 +121,17 @@
 }
 .info-text{
     font: normal normal normal 16px/20px Source Sans Pro;
+    
 }
 
 .info-bold{
     font: normal normal bold 16px/20px Source Sans Pro;
 }
+
+.room-card-margin{
+    margin-top: 74px
+}
+
 
 
 
